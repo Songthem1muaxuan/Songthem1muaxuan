@@ -1,19 +1,20 @@
-<img width="339" height="260" alt="OIP" src="https://github.com/user-attachments/assets/60864311-1e91-447c-8a79-68e8d09d8967" />  
-## Hi there 👋  
-I'm Songthem1muaxuan (Nguyen Tan Dung), a mechatronics undergraduate from Viet Nam.
-I like to build stuffs, especially robots.
+<img width="339" height="260" alt="OIP" src="https://github.com/user-attachments/assets/60864311-1e91-447c-8a79-68e8d09d8967" />\
+## Hello there 👋  
 
-<!--
-**Songthem1muaxuan/Songthem1muaxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Nguyen Tan Dung aka Songthem1muaxuan, a Mechatronics undergraduate at Hanoi University of Science and Technology with a strong passion for designing, prototyping, and programming autonomous systems and robotics. My other hobby is PCB design**.
+### 🛠️ Technical Toolkit
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Languages** | `C` • `C++` • `Python` • `MATLAB` |
+| **Robotics & Hardware** | `ROS2` • `Arduino` • `STM32` • `ESP32` |
+| **Simulation** | `Gazebo`|
+| **Electronics** | `KiCAD` • `Altium Designer` • `PCB Layout & Soldering` |
+## Current focus
+- PCB designer & vice president at HUST robotics and smart equipment club.  
+- Researching control systems at ROAB Lab under the guidance of prof Nguyen Xuan Thuan.
+- Making cool stuffs and post repos.  
+## Current interest
+- VLA in robotics.
+- Humanoid robots.
+- Surviving 4 years at HUST.
